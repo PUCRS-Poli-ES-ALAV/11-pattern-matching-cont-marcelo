@@ -1,3 +1,9 @@
+# Resultado
+
+## Complexidade (N)
+
+![Resultado](pics/resultadoKMP.jpg)
+
 # Problemas de Pattern Matching - Algoritmo de Knuth-Morris-Prat
 
 ## O problema
